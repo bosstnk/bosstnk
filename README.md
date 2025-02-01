@@ -50,11 +50,9 @@ I'm always eager to learn, improve, and tackle real-world data challenges. Let�
 - 👨‍🎓 Bachelor of Chemical Engineering, Kasetsart University
 - 
 ## Contact Me
-
-Feel free to reach out to me via:
-- 🏠 Bangkok, Thailand
-- 📋 LinkedIn: [Phatchara Soroschokchai Profile](https://www.linkedin.com/in/thanakorn-santisukbamrung-37a561289/)
-- 📩 Email: thanakorn.stsb@gmail.com
+- :house: Bangkok, Thailand
+- 📄 LinkedIn: [Thanakorn Santisukbamrung Profile](https://www.linkedin.com/in/thanakorn-santisukbamrung-37a561289/)
+- :envelope:  Email: thanakorn.stsb@gmail.com
 <p>
     <img align="center" 
          src="https://github-readme-stats.vercel.app/api/top-langs?username=bosstnk&show_icons=true&locale=en&layout=compact&theme=tokyonight" 
