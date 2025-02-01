@@ -51,7 +51,7 @@ I'm always eager to learn, improve, and tackle real-world data challenges. Let�
 - 
 ## Contact Me
 - :house: Bangkok, Thailand
-- 📄 LinkedIn: [Thanakorn Santisukbamrung Profile](https://www.linkedin.com/in/thanakorn-santisukbamrung-37a561289/)
+- 📄 LinkedIn: [Thanakorn Santisukbamrung](https://www.linkedin.com/in/thanakorn-santisukbamrung-37a561289/)
 - :envelope:  Email: thanakorn.stsb@gmail.com
 <p>
     <img align="center" 
