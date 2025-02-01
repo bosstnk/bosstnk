@@ -49,5 +49,9 @@ I'm always eager to learn, improve, and tackle real-world data challenges. Let�
 ### Education
 - 👨‍🎓 Bachelor of Chemical Engineering, Kasetsart University
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bosstnk&show_icons=true&locale=en&layout=compact" alt="bosstnk" /></p>
+<p>
+    <img align="center" 
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=bosstnk&show_icons=true&locale=en&layout=compact&theme=tokyonight" 
+         alt="bosstnk" />
+</p>
 
